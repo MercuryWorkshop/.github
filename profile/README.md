@@ -1,5 +1,6 @@
 # Mercury Workshop
 - A small team of active developers typically focused around finding flaws in chromeOS (usually enrollment)
+- May Ultrablue Rest In Peace
   - Join our [akkoma](https://akkoma.mercurywork.shop) :D
   
 ## Projects
