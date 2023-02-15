@@ -1,7 +1,7 @@
 # Mercury Workshop
 - A small team of active developers typically focused around finding flaws in chromeOS (usually enrollment)
-- May Ultrablue Rest In Peace
   - Join our [akkoma](https://akkoma.mercurywork.shop) :D
+- May Ultrablue Rest In Peace
   
 ## Projects
 - [sh1mmer - an enterprise jailbreak for chromebooks and chromeboxes](https://github.com/CoolElectronics/sh1mmer)
