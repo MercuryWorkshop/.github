@@ -4,8 +4,9 @@
 - May Ultrablue Rest In Peace
   
 ## Projects
-- [sh1mmer - an enterprise jailbreak for chromebooks and chromeboxes](https://github.com/CoolElectronics/sh1mmer)
+- [sh1mmer - an enterprise jailbreak for chromebooks and chromeboxes](https://github.com/MercuryWorkshop/sh1mmer)
 
+- [fakemurk - a set of utility scripts for spoofing verification on an enrolled chromebook](https://github.com/MercuryWorkshop/fakemurk/)
 - [Pollen - a simple and easy to use set of scripts for modifying user policies](https://github.com/MercuryWorkshop/Pollen)
 
 - [anuraOS - the best thing since MercuryWorkshop](https://github.com/MercuryWorkshop/anuraOS)
