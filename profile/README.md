@@ -1,6 +1,6 @@
 # Mercury Workshop
 - A small team of active developers typically focused around finding flaws in chromeOS user restriction
-  - Join our [akkoma](https://akkoma.mercurywork.shop) :D
+  - Join our [akkoma](https://akkoma.mercurywork.shop) (**NOT** tech support):D
 - May Ultrablue Rest In Peace
   
 ## Projects
