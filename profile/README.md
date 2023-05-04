@@ -1,6 +1,7 @@
 # Mercury Workshop
 - A small team of active developers typically focused around finding flaws in chromeOS user restriction
   - Join our [akkoma](https://akkoma.mercurywork.shop) (**NOT** tech support):D
+
 - May Ultrablue Rest In Peace
   
 ## Projects
@@ -9,3 +10,35 @@
 - [Pollen - a simple and easy to use script for modifying user policies](https://github.com/MercuryWorkshop/Pollen)
 - [lilac - a WIP tool for editing device policies](https://github.com/MercuryWorkshop/lilac)
 - [MAC Address Randomizer - for chromeOS](https://github.com/MercuryWorkshop/mac-address-randomizer)
+
+## Members
+- Rafflesia - Owner
+- r58Playz - Staff
+- Cool Electronics - Staff
+- Ultrablue - Staff (o7, Fly High)
+- Kaitlin - Member
+- Bypassi - Member
+- OlyB - Member
+- Luphoria - Member
+- Sharp Jack - Member
+- CVFD - Member
+- Justinchrim - Member
+- Zuh - Member
+- avd3 - Member
+- Unciaur - Member
+- Bagel - Member
+- Colacraft - Member
+- Catakang - Member
+- JimJam - Member
+- Melitha - Member
+- Siggaddj - Member
+- c-bass - Member
+- Koaku - Member
+- Violetence - Member
+- CyberClone - Member
+- He - Member
+- vk6 - Member
+- Quite a Fancy Emerald - Advisor
+- Aub - Advisor
+- Astral - Advisor
+- Mark - Advisor
