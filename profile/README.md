@@ -16,6 +16,7 @@
 - r58Playz - Staff
 - Cool Electronics - Staff
 - Ultrablue - Staff (o7, Fly High)
+- vk6 - Staff
 - Kaitlin - Member
 - Bypassi - Member
 - OlyB - Member
@@ -23,21 +24,17 @@
 - Sharp Jack - Member
 - CVFD - Member
 - Justinchrim - Member
-- Zuh - Member
 - avd3 - Member
 - Unciaur - Member
 - Bagel - Member
 - Colacraft - Member
 - Catakang - Member
 - JimDude - Member
-- Melitha - Member
 - Siggaddj - Member
 - c-bass - Member
 - Koaku - Member
-- Violetence - Member
 - CyberClone - Member
 - He - Member
-- vk6 - Member
 - Quite a Fancy Emerald - Advisor
 - Aub - Advisor
 - Astral - Advisor
