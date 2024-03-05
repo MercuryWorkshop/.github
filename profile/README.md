@@ -15,3 +15,5 @@ A small team of active developers typically focused around finding flaws in chro
 - [Pollen - a simple and easy to use script for modifying user policies](https://github.com/MercuryWorkshop/Pollen)
 - [lilac - a WIP tool for editing device policies](https://github.com/MercuryWorkshop/lilac)
 
+  View more info and a list of our members on our [Website!](https://mercurywork.shop)
+
