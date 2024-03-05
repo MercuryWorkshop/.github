@@ -1,44 +1,17 @@
-# Mercury Workshop
-- A small team of active developers typically focused around finding flaws in chromeOS user restriction
-  - Join our [akkoma](https://akkoma.mercurywork.shop) (**NOT** tech support):D
+![MercuryWorkshop](https://github.com/MercuryWorkshop/.github/assets/89202835/98bf3013-3fdc-4de9-a9b2-d5ce54ad1a29)
 
-- May Ultrablue Rest In Peace
+A small team of active developers typically focused around finding flaws in chromeOS user restriction
+
+<hr>
+
+- May Ultrablue Rest In Peace <3
   
-## Projects
+## Active Projects
+- [AnuraOS](https://github.com/MercuryWorkshop/anuraos)
+
+## Other Projects
 - [sh1mmer - an enterprise jailbreak for chromebooks and chromeboxes](https://github.com/MercuryWorkshop/sh1mmer)
 - [fakemurk - a set of utility scripts for spoofing verification on an enrolled chromebook](https://github.com/MercuryWorkshop/fakemurk/)
 - [Pollen - a simple and easy to use script for modifying user policies](https://github.com/MercuryWorkshop/Pollen)
 - [lilac - a WIP tool for editing device policies](https://github.com/MercuryWorkshop/lilac)
-- [MAC Address Randomizer - for chromeOS](https://github.com/MercuryWorkshop/mac-address-randomizer)
 
-## Members
-- Rafflesia - Owner
-- r58Playz - Staff
-- Cool Electronics - Staff
-- Ultrablue - Staff (o7, Fly High)
-- Kaitlin - Member
-- Bypassi - Member
-- OlyB - Member
-- Luphoria - Member
-- Sharp Jack - Member
-- CVFD - Member
-- Justinchrim - Member
-- Zuh - Member
-- avd3 - Member
-- Unciaur - Member
-- Bagel - Member
-- Colacraft - Member
-- Catakang - Member
-- JimDude - Member
-- Melitha - Member
-- Siggaddj - Member
-- c-bass - Member
-- Koaku - Member
-- Violetence - Member
-- CyberClone - Member
-- He - Member
-- vk6 - Member
-- Quite a Fancy Emerald - Advisor
-- Aub - Advisor
-- Astral - Advisor
-- Mark - Advisor
