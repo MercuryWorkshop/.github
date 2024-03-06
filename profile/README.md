@@ -1,19 +1,26 @@
-![MercuryWorkshop](https://github.com/MercuryWorkshop/.github/assets/89202835/98bf3013-3fdc-4de9-a9b2-d5ce54ad1a29)
+![me (1)](https://github.com/MercuryWorkshop/.github/assets/89202835/a880b891-2e39-4a4c-80be-591fd26b05de)
 
-A small team of active developers typically focused around finding flaws in chromeOS user restriction
-
-<hr>
-
-- May Ultrablue Rest In Peace <3
+A non-stock group of active developers focused on creating useful and versatile web services, primarily focused around ChromeOS.
   
-## Active Projects
-- [AnuraOS](https://github.com/MercuryWorkshop/anuraos)
+## Projects
+💻 [**AnuraOS**](https://github.com/MercuryWorkshop/anuraos) - <sub>The next-gen webOS and development environment with full linux emulation.</sub>
 
-## Other Projects
-- [sh1mmer - an enterprise jailbreak for chromebooks and chromeboxes](https://github.com/MercuryWorkshop/sh1mmer)
-- [fakemurk - a set of utility scripts for spoofing verification on an enrolled chromebook](https://github.com/MercuryWorkshop/fakemurk/)
-- [Pollen - a simple and easy to use script for modifying user policies](https://github.com/MercuryWorkshop/Pollen)
-- [lilac - a WIP tool for editing device policies](https://github.com/MercuryWorkshop/lilac)
+⛵ [**Adrift**](https://github.com/MercuryWorkshop/adrift/) - <sub>A fast and modern decentralized web proxy network, utilizing transport over WebRTC.</sub>
 
-  View more info and a list of our members on our [Website!](https://mercurywork.shop)
+🔌 [**Sh1mmer**](https://github.com/MercuryWorkshop/sh1mmer) - <sub>An exploit found in ChromeOS that utilitzes modified RMA factory shims to gain code execution.</sub>
+<sub>(Unmaintained)</sub>
+
+🥸 [**Fakemurk**](https://github.com/MercuryWorkshop/fakemurk/) - <sub>A set of scripts for spoofing verified on an enrolled chromebook.</sub>
+<sub>(Unmaintained)</sub>
+
+🐝 [**Pollen**](https://github.com/MercuryWorkshop/Pollen) - <sub>A simple ChromeOS User Policy Editor.</sub>
+<sub>(Unmaintained)</sub>
+
+🌸 [**Lilac**](https://github.com/MercuryWorkshop/lilac) - <sub>More complex user policy editor.</sub>
+<sub>(Unmaintained)</sub>
+
+**View more of our projects and a list of our members on our [Website!](https://mercurywork.shop)**
+  
+  <sub>Mercury Workshop Inc 2024</sub>
+  <br><sub>May UltraBlue rest in peace 🌹</sub>
 
