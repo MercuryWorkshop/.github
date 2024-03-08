@@ -7,10 +7,17 @@ A non-stock group of active developers focused on creating useful and versatile 
 
 ⛵ [**Adrift**](https://github.com/MercuryWorkshop/adrift/) - <sub>A fast and modern decentralized web proxy network, utilizing transport over WebRTC.</sub>
 
+✒️ [**Dreamland**](https://github.com/MercuryWorkshop/dreamlandjs) - <sub>A reactive JSX-based rendering library with no virtual DOM.</sub>
+
+🧪 [**Epoxy**](https://github.com/MercuryWorkshop/epoxy-tls) - <sub>A encrypted proxy for browser javascript.</sub>
+
 🔌 [**Sh1mmer**](https://github.com/MercuryWorkshop/sh1mmer) - <sub>An exploit found in ChromeOS that utilitzes modified RMA factory shims to gain code execution.</sub>
 <sub>(Unmaintained)</sub>
 
 🥸 [**Fakemurk**](https://github.com/MercuryWorkshop/fakemurk/) - <sub>A set of scripts for spoofing verified on an enrolled chromebook.</sub>
+<sub>(Unmaintained)</sub>
+
+🪚 [**E-Halcyon**](https://fog.gay/) - <sub>Bypass for the ChromeOS "fog" patch.</sub>
 <sub>(Unmaintained)</sub>
 
 🐝 [**Pollen**](https://github.com/MercuryWorkshop/Pollen) - <sub>A simple ChromeOS User Policy Editor.</sub>
