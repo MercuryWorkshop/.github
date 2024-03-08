@@ -1,4 +1,4 @@
-![fatter](https://github.com/MercuryWorkshop/.github/assets/89202835/56f6f407-e462-4a7b-83fd-64252150123f)
+![fix](https://github.com/MercuryWorkshop/.github/assets/89202835/7ebdc9f2-4784-44f4-99be-7165c647eea7)
 
 A non-stock group of active developers focused on creating useful and versatile web services, primarily focused around ChromeOS.
   
