@@ -22,6 +22,6 @@ A group of active developers focused on creating useful and versatile software.
 
 **View more of our projects and a list of our members on our [Website!](https://mercurywork.shop)**
   
-  <sub>Mercury Workshop Inc 2024</sub>
+  <sub>Mercury Workshop Inc 2025</sub>
   <br><sub>May UltraBlue rest in peace</sub>
 
