@@ -3,12 +3,12 @@
 A group of active developers focused on creating useful and versatile software.
   
 ## Projects
-- [**AnuraOS**](https://github.com/MercuryWorkshop/anuraos) - <sub>The next-gen webOS and development environment with full linux emulation.</sub>
-- [**Adrift**](https://github.com/MercuryWorkshop/adrift/) - <sub>A fast and modern decentralized web proxy network, utilizing transport over WebRTC.</sub>
+- [**AnuraOS**](https://github.com/MercuryWorkshop/AnuraOS) - <sub>The next-gen webOS and development environment with full linux emulation.</sub>
+- [**Scramjet**](https://github.com/MercuryWorkshop/scramjet) - <sub>An experimental interception-based web proxy that aims to be the successor to Ultraviolet.</sub>
 - [**Dreamland**](https://github.com/MercuryWorkshop/dreamlandjs) - <sub>A reactive JSX-based rendering library with no virtual DOM.</sub>
-- [**bare-mux**](https://github.com/MercuryWorkshop/bare-mux) - <sub>A drag-and-drop successor to bare-client (also see [CurlTransport](https://github.com/MercuryWorkshop/CurlTransport) and [EpoxyTransport](https://github.com/MercuryWorkshop/EpoxyTransport)).</sub>
-- [**libcurl.js**](https://github.com/ading2210/libcurl.js) - <sub>An experimental port of libcurl to WebAssembly for use in the browser, for proxying HTTPS requests with full TLS encryption.</sub>
+- [**Wisp**](https://github.com/MercuryWorkshop/wisp-protocol) - <sub>A low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a WebSocket connection.</sub>
 - [**Epoxy**](https://github.com/MercuryWorkshop/epoxy-tls) - <sub>A encrypted proxy for browser javascript.</sub>
+- [**Adrift**](https://github.com/MercuryWorkshop/adrift/) - <sub>A fast and modern decentralized web proxy network, utilizing transport over WebRTC. (Unmaintained)</sub>
 - [**Sh1mmer**](https://github.com/MercuryWorkshop/sh1mmer) - <sub>An exploit found in ChromeOS that utilitzes modified RMA factory shims to gain code execution.</sub>
 <sub>(Unmaintained)</sub>
 - [**Fakemurk**](https://github.com/MercuryWorkshop/fakemurk/) - <sub>A set of scripts for spoofing verified on an enrolled chromebook.</sub>
